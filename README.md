@@ -46,4 +46,8 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
     1, 2, 3 … – нумерованные списки
 
+<<<<<<< HEAD
    ![фото гриши](Kosha.jpg) 
+=======
+    ![фото гриши](Kosha.jpg)
+>>>>>>> task2
