@@ -45,6 +45,7 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
     * Строка – ненумерованные списки, символ “*” в начале строки
 
     1, 2, 3 … – нумерованные списки
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 
@@ -52,3 +53,6 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 =======
     2
 >>>>>>> task1
+=======
+    2
+>>>>>>> task2
