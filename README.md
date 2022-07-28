@@ -48,5 +48,4 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
     2 Одновременно в разных ветках отредактировать файл README.md
 
-
     в разных местах и сделать слияния в основную ветку master
