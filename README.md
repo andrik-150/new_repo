@@ -47,3 +47,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
     1, 2, 3 … – нумерованные списки
 
    ![фото гриши](Kosha.jpg) 
+
+   2 Одновременно в разных ветках отредактировать файл README.md
