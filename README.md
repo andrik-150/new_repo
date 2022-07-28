@@ -51,5 +51,3 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
     разных местах и сделать слияние в основную ветку (master)
 
     Одновременно в разных ветках отредактировать одну и туже строчку в
-    
-    файле README.md и сделать слияния в основную ветку (master).
