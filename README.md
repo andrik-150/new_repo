@@ -47,3 +47,6 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
     1, 2, 3 … – нумерованные списки
 
    ![фото гриши](Kosha.jpg)
+
+
+   в разных местах и сделать слияния в основную ветку (master)
