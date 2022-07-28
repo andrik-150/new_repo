@@ -47,3 +47,6 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
     1, 2, 3 … – нумерованные списки
 
     Одновременно в разных ветках отредактировать файл README.md
+
+
+    в разных местах и сделать слияние в основную ветку (master)
